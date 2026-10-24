@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "packageName": "cn.local.personalagent",
+  "versionCode": 9,
+  "versionName": "0.3.3",
+  "downloadUrl": "https://github.com/longye-hub/fat-fish-releases/releases/download/v0.3.3/FatFish-0.3.3-release.apk",
+  "sha256": "1019b8c73a8f841bd2bc4d3f91e17979beb1046e1e7fa7b3b93905839a8f81f2",
+  "size": 63715684,
+  "notes": "新增加密备份与恢复、固定正式签名、手动检查更新，以及随备份迁移的原始记忆文件包。API Key 不进入备份，换设备需重新填写。"
+}
