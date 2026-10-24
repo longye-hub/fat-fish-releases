@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "cn.local.personalagent",
-  "versionCode": 9,
-  "versionName": "0.3.3",
-  "downloadUrl": "https://github.com/longye-hub/fat-fish-releases/releases/download/v0.3.3/FatFish-0.3.3-release.apk",
-  "sha256": "1019b8c73a8f841bd2bc4d3f91e17979beb1046e1e7fa7b3b93905839a8f81f2",
-  "size": 63715684,
-  "notes": "新增加密备份与恢复、固定正式签名、手动检查更新，以及随备份迁移的原始记忆文件包。API Key 不进入备份，换设备需重新填写。"
+  "versionCode": 12,
+  "versionName": "0.4.2",
+  "downloadUrl": "https://github.com/longye-hub/fat-fish-releases/releases/download/v0.4.2/FatFish-0.4.2-release.apk",
+  "sha256": "484af81b20a194203438c1511a30ba0968831017c6c764b6104a11fa50f4b568",
+  "size": 111541847,
+  "notes": "普通聊天新增图片、视频和文件入口；视频按所选时间段抽帧并标时间，PDF可选页，Office与文本文件提取文字。修复系统返回直接离开应用：先回上一聊天窗口或会话列表，健康分页先退回总控。覆盖升级保留已有记忆、API Key和设置。"
 }
