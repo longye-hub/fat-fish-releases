@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "cn.local.personalagent",
-  "versionCode": 14,
-  "versionName": "0.5.0",
-  "downloadUrl": "https://github.com/longye-hub/fat-fish-releases/releases/download/v0.5.0/FatFish-0.5.0-release.apk",
-  "sha256": "41b56aea57d9fbcc4858e1d52c7900ad7bf007b1dfd2077837e047646002a407",
-  "size": 112182507,
-  "notes": "聊天支持联网搜索和读取公开网页，可查看、打开和追问来源。新增助手台、可勾选清单、排队追问和拍照提问。直接覆盖安装可保留原有资料和模型设置。"
+  "versionCode": 15,
+  "versionName": "0.6.0",
+  "downloadUrl": "https://github.com/longye-hub/fat-fish-releases/releases/download/v0.6.0/FatFish-0.6.0-release.apk",
+  "sha256": "497f2f03d028ff750a428a68911246ecb55eafcb4f07ddda830da3dc143ad9cf",
+  "size": 112379115,
+  "notes": "DeepSeek 官方普通聊天上限提升到 384K tokens。自动查网页、展示旅行资料与来源图、查历史和指定窗口、填草稿、存清单。聊天中可按本机训练记录和器械安排训练。请直接覆盖安装。"
 }
