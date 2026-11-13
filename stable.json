@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "cn.local.personalagent",
-  "versionCode": 15,
-  "versionName": "0.6.0",
-  "downloadUrl": "https://github.com/longye-hub/fat-fish-releases/releases/download/v0.6.0/FatFish-0.6.0-release.apk",
-  "sha256": "497f2f03d028ff750a428a68911246ecb55eafcb4f07ddda830da3dc143ad9cf",
+  "versionCode": 16,
+  "versionName": "0.6.1",
+  "downloadUrl": "https://cnb.cool/longye-hub/fat-fish-releases/-/releases/download/v0.6.1/FatFish-0.6.1-release.apk",
+  "sha256": "00b68b8b49cfb725965fffafec2ef222a7683f270f9099af3535a5b062304955",
   "size": 112379115,
-  "notes": "DeepSeek 官方普通聊天上限提升到 384K tokens。自动查网页、展示旅行资料与来源图、查历史和指定窗口、填草稿、存清单。聊天中可按本机训练记录和器械安排训练。请直接覆盖安装。"
+  "notes": "国内更新渠道。安装包从 CNB 下载，升级后检查更新也从 CNB 获取版本信息。请直接覆盖安装。"
 }
